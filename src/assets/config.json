@@ -1,0 +1,228 @@
+{
+    "sendNavList": [{
+            "id": 1607931438300,
+            "name": "part1",
+            "timestamp": 1607931438300
+        },
+        {
+            "id": 1607931645483,
+            "name": "part2",
+            "timestamp": 1607931645483
+        },
+        {
+            "id": 1607934341012,
+            "name": "part3",
+            "timestamp": 1607934341012
+        },
+        {
+            "id": 99999,
+            "name": "+"
+        }
+    ],
+    "sendSetData": [{
+            "nav": {
+                "id": 1607934341012,
+                "name": "part3",
+                "timestamp": 1607934341012
+            },
+            "data": {
+                "type1": "123123",
+                "type2": "MDPUSH_001",
+                "type3": "PUSH",
+                "type4": "",
+                "type5": "123",
+                "type6": "123",
+                "type7": "PUSH",
+                "timestamp": 1608083493201
+            }
+        },
+        {
+            "nav": {
+                "id": 1607931438300,
+                "name": "part1",
+                "timestamp": 1607931438300
+            },
+            "data": {
+                "type1": "123123542352345",
+                "type2": "MDPUSH_001",
+                "type3": "REQUEST",
+                "type4": "aync",
+                "type5": "123123",
+                "type6": "1",
+                "type7": "REQUEST",
+                "timestamp": 1608084219989
+            }
+        },
+        {
+            "nav": {
+                "id": 1607931645483,
+                "name": "part2",
+                "timestamp": 1607931645483
+            },
+            "data": {
+                "type1": "hezitai",
+                "type2": "MDPUSH_001",
+                "type3": "PUSH",
+                "type4": "",
+                "type5": "12312",
+                "type6": "20000",
+                "type7": "PUSH",
+                "timestamp": 1608084225603
+            }
+        }
+    ],
+    "messageNavList": [{
+            "id": 1607931503480,
+            "name": "part1",
+            "timestamp": 1607931503480
+        },
+        {
+            "id": 1607931525190,
+            "name": "part2",
+            "timestamp": 1607931525190
+        },
+        {
+            "id": 99999,
+            "name": "+"
+        }
+    ],
+    "messageSetData": [{
+            "nav": {
+                "id": 1607931525190,
+                "name": "part2",
+                "timestamp": 1607931525190
+            },
+            "data": {
+                "sendNavList": [{
+                        "id": 1607931438300,
+                        "name": "part1",
+                        "timestamp": 1607931438300
+                    },
+                    {
+                        "id": 99999,
+                        "name": "+"
+                    }
+                ],
+                "sendSetData": [{
+                    "nav": {
+                        "id": 1607931438300,
+                        "name": "part1",
+                        "timestamp": 1607931438300
+                    },
+                    "data": {
+                        "type1": "123123",
+                        "type2": "MDPUSH_001",
+                        "type3": "REQUEST",
+                        "type4": "aync",
+                        "type5": "123123",
+                        "type6": "123123",
+                        "type7": "REQUEST",
+                        "timestamp": 1607931534395
+                    }
+                }],
+                "messageNavList": [{
+                        "id": 1607931503480,
+                        "name": "part1",
+                        "timestamp": 1607931503480
+                    },
+                    {
+                        "id": 1607931525190,
+                        "name": "part2",
+                        "timestamp": 1607931525190
+                    },
+                    {
+                        "id": 99999,
+                        "name": "+"
+                    }
+                ],
+                "messageSetData": [{
+                        "nav": {
+                            "id": 1607931503480,
+                            "name": "part1",
+                            "timestamp": 1607931503480
+                        },
+                        "data": {
+                            "name": "123",
+                            "class": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6
+                            ],
+                            "date": [{
+                                    "year": 2020,
+                                    "month": 8,
+                                    "day": 9
+                                },
+                                {
+                                    "year": 2020,
+                                    "month": 1,
+                                    "day": 9
+                                },
+                                {
+                                    "year": 2020,
+                                    "month": 2,
+                                    "day": 9
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "nav": {
+                            "id": 1607931525190,
+                            "name": "part2",
+                            "timestamp": 1607931525190
+                        },
+                        "data": {
+                            "name": "123",
+                            "class": [
+                                1,
+                                2,
+                                3,
+                                4,
+                                5,
+                                6
+                            ],
+                            "date": [{
+                                    "year": 2020,
+                                    "month": 8,
+                                    "day": 9
+                                },
+                                {
+                                    "year": 2020,
+                                    "month": 1,
+                                    "day": 9
+                                },
+                                {
+                                    "year": 2020,
+                                    "month": 2,
+                                    "day": 9
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "nav": {
+                "id": 1607931676440,
+                "name": "part3",
+                "timestamp": 1607931676440
+            },
+            "data": {
+                "11111": "asdasd"
+            }
+        },
+        {
+            "nav": {
+                "id": 1607931503480,
+                "name": "part1",
+                "timestamp": 1607931503480
+            },
+            "data": {}
+        }
+    ]
+}
